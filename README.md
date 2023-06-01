@@ -1,9 +1,4 @@
-# bmi project mobile computing Egyptian Chinese University
-# Mohamad Elwakiel 
-# Mohamad Ashraf
-# Nardin Adel
-# Goerge Adel
-# Abdelrahman Ayman
+
 
 A new Flutter project.
 
